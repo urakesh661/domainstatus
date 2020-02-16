@@ -1,4 +1,4 @@
-# Domain-Status
+# domain-status
 
 This scripts fetches the status of each domain in the provided list and then returns the domain names which matches with the response code provided by the user.
 
