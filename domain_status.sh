@@ -23,13 +23,3 @@ end_time=$(date +%s)
 time_diff=$(( $end_time - $start_time ))
 echo "Total time taken by script $time_diff seconds"
 
-
-
-
-
-
-
-
-
-
-
